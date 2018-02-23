@@ -1,0 +1,9 @@
+data.*
+*.png
+*.jpg
+screenshots*
+*.pyc
+__pycache__/*
+data
+.DS_Store
+none
